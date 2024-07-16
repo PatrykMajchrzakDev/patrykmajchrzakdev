@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Just email me: patrykxmajchrzak@gmail.com**
 
-- 📄 FInd out more about my experiences [https://www.linkedin.com/in/patryk-majchrzakdev/](https://www.linkedin.com/in/patryk-majchrzakdev/)
+- 📄 Find out more about my experiences [https://www.linkedin.com/in/patryk-majchrzakdev/](https://www.linkedin.com/in/patryk-majchrzakdev/)
 
 - ⚡ The fact **"I am learning web development every day even if it's 1% and I WILL become a programmer. It's just a matter of time. That's my motto.**
 
