@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Patryk Majchrzak</h1>
-<h3 align="center">A passionate frontend developer from Poland.</h3>
+<h3 align="center">A passionate fullstack developer from Poland.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrykmajchrzakdev&label=Profile%20views&color=0e75b6&style=flat" alt="patrykmajchrzakdev" /> </p>
 
 - 🔭 I’m currently working on [building a boilerplate for my future apps.](https://github.com/PatrykMajchrzakDev/QuickBite)
 
-- 🌱 I’m currently learning **React, Node, different databases such as PostgreSQL and MongoDB nad many more.**
+- 🌱 I’m currently learning **React, Node, and databases such as PostgreSQL, MongoDB, and many more.**
 
 - 👨‍💻 All of my projects are available at [https://patrykmajchrzakdev.vercel.app/](https://patrykmajchrzakdev.vercel.app/)
 
